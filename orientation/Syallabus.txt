@@ -1,0 +1,18 @@
+Front End Tech
+Html 
+Css 
+Js 
+React js 
+
+BackEnd Tech
+express js
+next js
+
+database
+sql = mysql
+nosql = mongodb
+
+DSA + Js
+Docker 
+Kubernites
+Aws
