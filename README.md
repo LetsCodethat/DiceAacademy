@@ -1,2 +1,3 @@
 # DiceAacademy
-Learning from Dice 
+Full Stack Web development from Dice Aacademy
+
